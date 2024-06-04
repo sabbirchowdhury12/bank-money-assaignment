@@ -4,12 +4,13 @@ import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
 import Freature from "@/components/freature";
 import Advantages from "@/components/advantages";
-import Customize from "@/components/Customize";
+
 import Testimonial from "@/components/testimonial";
 import FAQ from "@/components/faq";
 import Footer from "@/components/footer";
 import Banner from "@/components/banner";
 import { useEffect, useState } from "react";
+import Customize from "@/components/cusromize";
 
 export default function Home() {
   const [data, setData] = useState();
