@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "headline": "MAKE THE BEST FINANCIAL DECISIONS",
+    "subheadline": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+    "ctaButtons": [
+      {
+        "text": "Get Start",
+        "link": "/#"
+      },
+      {
+        "text": "Learn More",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Feature One",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "/freature-icon-1.png"
+    },
+    {
+      "title": "Feature Two",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "/freature-icon-2.png"
+    },
+    {
+      "title": "Feature Three",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "/freature-icon-2.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "01",
+      "name": "John Dhon",
+      "feedback": "Justo diam lorem et amet nonumy eirmod no. Ut dolore sea dolor amet elitr sanctus vero justo. Et consetetur et.The scape and with his lines thou longed that things, a tales uncouth plain but cheer. Can delphis his call.",
+      "avatar": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWVuJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "02",
+      "name": "Khalid",
+      "feedback": "Excellent service! Prompt delivery and high-quality products Et consetetur et.The scape and with his lines thou longed that things, a tales uncouth plain but cheer. Can delphis his call.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "03",
+      "name": "Jowshri",
+      "feedback": "Impressive customer support. Resolved my issue swiftly.",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWVuJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "04",
+      "name": "Sabbir",
+      "feedback": "User-friendly interface. Intuitive design.",
+      "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1lbiUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "05",
+      "name": "Dharma",
+      "feedback": "Timely updates. Reliable communication",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "06",
+      "name": "User Two",
+      "feedback": "Timely updates. Reliable communication Et consetetur et.The scape and with his lines thou longed that things, a tales uncouth plain but cheer. Can delphis his call.",
+      "avatar": "https://images.unsplash.com/photo-1456327102063-fb5054efe647?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1lbiUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    }
+  ]
+}
